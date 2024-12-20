@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Ma
 - 👀 I’m interested in Web Development, Operating Systems, Networks, and Embedded Systems
-- 🌱 I’m currently learning Vue, Nuxt, Tailwind, pug, and Bash
+- 🌱 I’m currently learning Python, C#, ReGeX
 - 📫 How to reach me: `fegelsamuel@gmail.com`
 - ⚡ Fun fact: I'm very smart
