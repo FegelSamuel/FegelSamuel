@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Ma
 - 👀 I’m interested in Web Dev, Operating Systems, Networks, and Game Dev
 - 🌱 I’m currently learning Python, C#, ReGeX
-- 📫 How to reach me: `fegelsamuel@gmail.com`
+- 📫 How to reach me: `samuelma1200@gmail.com`
 - ⚡ Fun fact: I'm very smart
